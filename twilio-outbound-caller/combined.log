@@ -1,0 +1,16 @@
+{"level":"info","message":"Found 0 API keys in .env file","timestamp":"2025-01-27T15:44:02.664Z"}
+{"level":"info","message":"Detected API keys:","timestamp":"2025-01-27T15:44:02.666Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-27T15:44:02.670Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-01-27T15:44:02.670Z"}
+{"from":"+12348134459","level":"info","message":"Initiating outbound call","messageLength":27,"timestamp":"2025-01-27T15:45:31.101Z","to":"+13048237522"}
+{"callSid":"CA48ede78e6871bf7f3a5d066f3c7af626","level":"info","message":"Call initiated successfully","timestamp":"2025-01-27T15:45:31.381Z"}
+{"level":"info","message":"Found 0 API keys in .env file","timestamp":"2025-01-27T15:54:55.207Z"}
+{"level":"info","message":"Detected API keys:","timestamp":"2025-01-27T15:54:55.209Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-27T15:54:55.278Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-01-27T15:54:55.279Z"}
+{"level":"info","message":"Audio file generated: speech_1737993324141.mp3","timestamp":"2025-01-27T15:55:24.647Z"}
+{"from":"+12348134459","level":"info","message":"Initiating outbound call","messageLength":65,"timestamp":"2025-01-27T15:55:24.650Z","to":"+13048237522"}
+{"callSid":"CA3ba80794722b0ef6ad3dde67cff855df","level":"info","message":"Call initiated successfully","timestamp":"2025-01-27T15:55:24.906Z"}
+{"level":"info","message":"Audio file generated: speech_1737993372141.mp3","timestamp":"2025-01-27T15:56:12.362Z"}
+{"from":"+12348134459","level":"info","message":"Initiating outbound call","messageLength":65,"timestamp":"2025-01-27T15:56:12.363Z","to":"+14844019149"}
+{"callSid":"CA91630bcf2dbac32a1a901276c37ccd6f","level":"info","message":"Call initiated successfully","timestamp":"2025-01-27T15:56:12.563Z"}
